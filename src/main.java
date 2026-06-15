@@ -1,6 +1,11 @@
 public class main {
     public static void main (String[] args){
-        System.out.print("I like Pizza!");
-        System.out.print("It's really good");
+
+        // THIS IS MY FIRST JAVA PROGRAM FROM BRO-CODE
+
+
+        System.out.println("I like Pizza!");
+        System.out.println("It's really good");
+        System.out.println("Buy me pizza");
     }
 }
