@@ -18,7 +18,7 @@ public class inputoutput {
         System.out.println("Your GPA is " + gpa);
 
 
-
+// test commit
         scanner.close(); // this is good practice at the end of a program
     }
 }
