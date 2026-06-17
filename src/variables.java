@@ -6,7 +6,14 @@ public class variables {
         System.out.println(pi);
         char food = 'p';
         System.out.println(food);
+        String name = "Alfie" ;
+        System.out.println(name);
+        boolean isStudent = true;
+        boolean forSale = false;
+        System.out.println(isStudent);
+        System.out.println(forSale);
     }
+
 }
 
 
